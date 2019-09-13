@@ -62,7 +62,7 @@ namespace Lab01
 
 ➢ รันโปรแกรมและบันทึกผล
 
-```text
+![](./lab-result-images/lab04-01.PNG)
 
 
 
